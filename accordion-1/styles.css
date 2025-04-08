@@ -118,8 +118,8 @@ summary::marker {
     content: '';
 }
 
-/* /* Text Animation */
-details summary:hover, .accordion-heading:hover {
+/* Text Animation */
+/* details summary:hover, .accordion-heading:hover {
     font-size: 2rem;
     font-weight: bold;
     color: transparent;
