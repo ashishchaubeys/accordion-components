@@ -118,7 +118,7 @@ summary::marker {
     content: '';
 }
 
-/* Text Animation */
+/* /* Text Animation */
 details summary:hover, .accordion-heading:hover {
     font-size: 2rem;
     font-weight: bold;
@@ -140,3 +140,4 @@ details summary:hover, .accordion-heading:hover {
         background-position: 100% 50%;
     }
 }
+ */
